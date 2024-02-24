@@ -10,7 +10,7 @@
 
 [git-my-sandbox](https://github.com/users/priv-ts/projects/8/views/1)プロジェクトを使用する
 
-### Issue 作成~プルリクエスト作成~Close の基本的な流れ
+### Issue 作成　~　プルリクエスト作成　~　 Close の基本的な流れ
 
 1. Issue を起票する
 2. Issue > Create a branch > Repository と Branch を選択
