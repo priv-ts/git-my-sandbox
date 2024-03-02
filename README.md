@@ -1,4 +1,4 @@
-# git-my-sandbox
+# git-sandbox
 
 # Rules
 
