@@ -1,5 +1,7 @@
 # git-sandbox
 
+test-push
+
 # Rules
 
 ## Branch protection rules
