@@ -22,6 +22,7 @@
 
 ### ローカル環境で GitHub Actions を実行する(act)
 
+- [WIP]GitHub 環境だとエラーとなってしまう
 - [act を使って GitHub Actions をローカル実行する](https://zenn.dev/yumemi_inc/articles/203779a4eba922)
 - 実行コマンド
   - `act pull_request --container-architecture linux/amd64`
