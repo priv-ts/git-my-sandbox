@@ -13,8 +13,5 @@ jobs:
       - name: build
         run: docker compose build
 
-      - name: start containers
-        run: docker compose up -d
-
       - name: exec docker container exec date
         run: docker compose exec app date
